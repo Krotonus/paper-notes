@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "6a17177fc38de82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "38444e9029215434",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434638a8e791e436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TinyBERT/TinyBERT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TinyBERT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f869db471b5a5f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3055bb04a8cbf226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72f7410a49cabd7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "caa4922139b3f940",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "70b317de4cddf4af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8f51732510c9e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7797c785e9e72d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1823e7cc1158512f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TinyBERT/TinyBERT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TinyBERT"
+            }
+          },
+          {
+            "id": "78b822f210286850",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TinyBERT/TinyBERT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TinyBERT"
+            }
+          },
+          {
+            "id": "832e50a8e716a34d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f8f7feffd2787b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TinyBERT/TinyBERT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TinyBERT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "434638a8e791e436",
+  "lastOpenFiles": [
+    "HomePage.md",
+    "Evo 2.md",
+    "TinyBERT/TinyBERT.md",
+    "TinyBERT/Figure_1.png",
+    "TinyBERT/Pasted image 20250623164246.png",
+    "TinyBERT/Pasted image 20250623164425.png",
+    "create a link.md",
+    "TinyBERT"
+  ]
+}
